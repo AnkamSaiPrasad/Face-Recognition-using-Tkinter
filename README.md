@@ -9,9 +9,16 @@ Download the **sourcecode.py** and place it in an empty folder. Now create a new
 
 ->name the images as you wish.
 
-**NOTE :** the name which you have given to the image will be displayed in the output.
-
 ->Only png, jpg and jpeg files will work for the code.
+
+**NOTE :**
+
+**.** The name which you have given to the image will be displayed in the output.
+
+**.** Make sure the background of the image you are placing in the faces folder is not messy.
+
+**.** The messy background images will reduce the recognition accuracy.
+
 
 ### After this process
 you can just run the code in your idle or text editor(VS Code) or command prompt(CMD).
